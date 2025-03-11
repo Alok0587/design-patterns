@@ -6,7 +6,7 @@ import com.creational.builder.classic.OrderBuilderDirector;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class CreationalApplication {
 
     public static void main(String[] args) {
